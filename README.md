@@ -1,9 +1,12 @@
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/r0mymendez)
+
+
 
 ---
 
 # 🎨 Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content
 **Diagram as Code** is an approach that allows you to create diagrams through code instead of traditional graphic tools. Instead of manually building diagrams, you can write code in a text file to define the structure, components, and connections of your diagrams.  
+
+## Ref https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8htajk1ztiftm5we9x2y.png)
 
